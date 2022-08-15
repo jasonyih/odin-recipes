@@ -1,0 +1,18 @@
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    background-color: aqua;
+    color: blueviolet;
+}
+
+h3 {
+    font-size: 25px;
+    background-color: antiquewhite;
+    color: cornflowerblue;
+}
+
+.dough {
+    font-style: oblique;
+    background-color: turquoise;
+    color: thistle;
+}
